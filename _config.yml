@@ -2,6 +2,9 @@ title: Maciej Cyranowicz
 description: Unity Expert - Generalist game and tools developer
 baseurl: ""
 url: "https://warlander.github.io"
+twitter_username: ""
+github_username: ""
+medium_username: ""
 
 paginate: 10
 paginate_path: "/page:num/"
