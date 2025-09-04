@@ -16,4 +16,4 @@ Let's make games and push the limits of this art form together!
 # Projects
 
 ## Lily's Garden
-![Lily's Garden](/assets/img/LG.webp)
+![Lily's Garden](/assets/img/LG2.webp)
