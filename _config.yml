@@ -5,6 +5,8 @@ url: "https://warlander.github.io"
 twitter_username: ""
 github_username: ""
 medium_username: ""
+section_title: "Projects"
+section_subtitle: "Here are selected projects I've worked on"
 
 paginate: 10
 paginate_path: "/page:num/"
