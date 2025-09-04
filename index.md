@@ -16,4 +16,14 @@ Let's make games and push the limits of this art form together!
 # Projects
 
 ## Lily's Garden
-![Lily's Garden](/assets/img/LG2.webp)
+### Tactile Games
+[![Lily's Garden](/assets/img/LG2.webp)](https://play.google.com/store/apps/details?id=dk.tactile.lilysgarden&hl=en)
+
+* Improvement and optimization of tooling. Notable improvements include rewrite and redesign of content build and testing pipeline, bringing legacy user interface framework to modern code quality standards and taking advantage of said improvements to implement support for new and complex visual effects and animations to improve user engagement.
+* Development of new game features and entire new game modes as a part of a Scrum team.
+* Coordination with wide variety of different teams and roles within the company and its subsidiaries.
+* Translation of stakeholders needs and scrum user stories into development tasks and their implementation.
+* Biggest accomplishment: development of Lily's Mysteries feature which greatly boosted player engagement.
+
+## Okey
+### Ahoy Games
