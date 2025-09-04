@@ -1,6 +1,6 @@
 ﻿Hello! I'm **Maciej Cyranowicz** also better known online as **Warlander**. Game developer by passion and trade, gamer, maker and caretaker of guinea pigs.
 
-Unity game engine expert with 6 years of professional engine experience.
+Unity game engine expert with 6 years of professional engine experience. Currently based in **Copenhagen, Denmark**.
 
 Let's make games and push the limits of this art form together!
 
