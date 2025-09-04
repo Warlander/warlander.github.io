@@ -2,6 +2,8 @@
 
 Let's make games and push the limits of this art form together!
 
+Please feel free to visit my [LinkedIn](https://www.linkedin.com/in/maciej-cyranowicz/) and [GitHub](https://github.com/Warlander)!
+
 # My timeline
 
 * My father introduced me to computers and video games at 5 years old, this quickly turned into interest on how games are made and how they work under the hood.
