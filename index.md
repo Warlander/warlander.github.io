@@ -40,14 +40,14 @@ MMO project I volunteer on. This was my first experience with commercial project
 ![Gin Rummy Legends](/assets/img/ginrummylegends.webp)
 [Play Store](https://play.google.com/store/apps/details?id=com.ahoygames.ginrummy&hl=en) | [App Store](https://apps.apple.com/dk/app/gin-rummy-legends/id1593427543)
 
-I implemented all gameplay mechanics in the game prior to initial release - multiplayer support, card handling system, the game loop and all supporting mechanics that make the game what it is. I coordinated closely with artists and designer to bring their ideas to life.
+Greenfield project I led development on. I implemented all gameplay mechanics present in the game - most important being multiplayer support, gameplay loop, card handling system involving cards dynamically responding to player inputs, smoothly transitioning between states, being controlled by physics or predefined animations depending on circumstances. I coordinated closely with artists to bring their ideas to life, requiring both extensive problem solving and finding creative solutions for problems within Unity game engine.
 
 ## Okey
 **Ahoy Games - Senior Game Programmer**
 ![Okey](/assets/img/okey.webp)
 [Play Store](https://play.google.com/store/apps/details?id=com.ahoygames.okey) | [App Store](https://apps.apple.com/us/app/okey/id667645433)
 
-I took part in the development of multiplayer functionalities, social features and the cafe building mode. I also created automation tools streamlining the game testing process, and took part in porting the game from Haxe programming language to Unity game engine.
+I took part in the development of multiplayer functionalities, social features and the cafe building mode. I also created automation tools streamlining the game testing process, and took part in porting the game from Haxe programming language to Unity game engine. This project presented many challenges, a lot of time was spent bringing it up to modern standards and implementing functionalities years after the original release such as multiplayer support.
 
 ## Wurm Unlimited
 **CodeClub AB - Volunteer Game Developer**
@@ -68,4 +68,4 @@ I took part in scaling the game up after the initial release - implementing new 
 ![DeedPlanner](/assets/img/deedplanner.jpg)
 [Forum Post](https://forum.wurmonline.com/index.php?/topic/171432-deedplanner-311-3d-house-and-deed-design-tool/) | [WebGL Version](https://deedplanner.warlander.app) | [GitHub](https://github.com/Warlander/DeedPlanner-3)
 
-My personal pet project - program allowing users to rapidly prototype homes and entire villages before they put days or weeks of work into them in Wurm Online/Wurm Unlimited game. It also offers many other helpful features, such as the warning system in case the designed structures are impossible to build in-game, and calculator allowing to determine how many materials the in-game project will take to build.
+My personal pet project - program allowing users to rapidly prototype homes and entire villages before they put days or weeks of work into them in Wurm Online/Wurm Unlimited game. It also offers many other helpful features, such as the warning system in case the designed structures are impossible to build in-game, and calculator allowing to determine how many materials the in-game project will take to build. This project and its different iterations is a good time capsule of my skills as a programmer increasing over time. The project went from very rudimentary early versions all the way to the third iteration of the program being a playground for programming patterns and Unity features, and together with that came more and higher quality features for its users.
