@@ -16,7 +16,7 @@ Let's make games and push the limits of this art form together!
 # Projects
 
 ## Lily's Garden
-### Tactile Games
+#### Tactile Games
 [![Lily's Garden](/assets/img/LG2.webp)](https://play.google.com/store/apps/details?id=dk.tactile.lilysgarden&hl=en)
 
 * Improvement and optimization of tooling. Notable improvements include rewrite and redesign of content build and testing pipeline, bringing legacy user interface framework to modern code quality standards and taking advantage of said improvements to implement support for new and complex visual effects and animations to improve user engagement.
