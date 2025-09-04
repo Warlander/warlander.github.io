@@ -1,12 +1,6 @@
 title: Test
 description: Test description
 
-github:
-  is_project_page: false
-  show_ribbon: false
-footer:
-  copyright: "© 2025 Maciej Cyranowicz. This portfolio showcases both my personal projects and projects I contributed to. All non-personal projects are © their respective owners."
-
 repository: warlander/warlander.github.io
 remote_theme: pages-themes/merlot@v0.2.0
 plugins:
