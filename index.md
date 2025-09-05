@@ -47,7 +47,7 @@ Greenfield project I led development on. I implemented all gameplay mechanics pr
 ![Okey](/assets/img/okey.webp)
 [Play Store](https://play.google.com/store/apps/details?id=com.ahoygames.okey) | [App Store](https://apps.apple.com/us/app/okey/id667645433)
 
-I took part in the development of multiplayer functionalities, social features and the cafe building mode. I also created automation tools streamlining the game testing process, and took part in porting the game from Haxe programming language to Unity game engine. This project presented many challenges, a lot of time was spent bringing it up to modern standards and implementing functionalities years after the original release such as multiplayer support.
+I took part in the development of multiplayer functionalities, social features and the cafe building mode. I also created automation tools streamlining the game testing process, and took part in porting the game from Haxe programming language to Unity game engine. This project presented many challenges, a lot of time was spent bringing it up to modern standards and implementing functionalities years after the original release such as multiplayer support and other online functionalities.
 
 ## Wurm Unlimited
 **CodeClub AB - Volunteer Game Developer**
