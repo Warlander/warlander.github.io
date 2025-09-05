@@ -17,7 +17,7 @@ Please feel free to visit my [LinkedIn](https://www.linkedin.com/in/maciej-cyran
 * At 24 years old, I started my professional game development journey at [**Ahoy Games**](https://www.ahoygames.com)!
 * At 28 years old, I moved to Denmark where I'm currently working at [**Tactile Games**](https://tactilegames.com).
 
-# Projects
+# Selected Projects
 
 ## Lily's Garden
 **Tactile Games - Senior Content Tools Game Programmer**
