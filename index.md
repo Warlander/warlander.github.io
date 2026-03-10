@@ -19,6 +19,15 @@ Please feel free to visit my [LinkedIn](https://www.linkedin.com/in/maciej-cyran
 
 # Selected Projects
 
+## Suck It Up
+**Tactile Games - Senior Content Tools Game Programmer**
+![Suck It Up](/assets/img/siu.webp)
+[Play Store](https://play.google.com/store/apps/details?id=dk.tactile.holegame) | [App Store](https://apps.apple.com/dk/app/suck-it-up-hole-them-all/id6749577557)
+
+Suck It Up is a rapidly growing live service game that is constantly evolving, with new content being delivered to players on a regular basis. My focus is entirely on the **tooling and content pipeline** that powers the game's development - not the gameplay itself, but the systems that let designers and artists create and ship content efficiently and reliably.
+
+My ownership includes the **level editor** tooling and the content pipeline responsible for building and delivering assets to players. I also work on integrations between internal tools - supporting the cross-team workflows that keep a fast-moving live service running smoothly week after week.
+
 ## Lily's Garden
 **Tactile Games - Senior Content Tools Game Programmer**
 ![Lily's Garden](/assets/img/LG2.webp)
