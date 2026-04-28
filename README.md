@@ -1,5 +1,18 @@
-# Maciej Cyranowicz - personal portfolio repository
+# warlander.github.io
 
-Portfolio is available under https://warlander.github.io
+Personal portfolio of Maciej Cyranowicz (Warlander), built with React, Vite, and Tailwind CSS.
 
-The Jekyll theme used is Merlot, available at https://github.com/pages-themes/merlot
+## Development
+
+```bash
+npm install
+npm run dev
+```
+
+## Build
+
+```bash
+npm run build
+```
+
+Static output is generated in the `dist/` directory.

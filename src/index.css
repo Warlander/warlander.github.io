@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 36 24% 92%;
+    --foreground: 30 7% 16%;
+    --card: 36 33% 96%;
+    --card-foreground: 30 7% 16%;
+    --popover: 36 33% 96%;
+    --popover-foreground: 30 7% 16%;
+    --primary: 348 46% 33%;
+    --primary-foreground: 0 0% 98%;
+    --secondary: 198 27% 39%;
+    --secondary-foreground: 0 0% 98%;
+    --muted: 36 15% 88%;
+    --muted-foreground: 30 5% 40%;
+    --accent: 36 15% 88%;
+    --accent-foreground: 30 7% 16%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 36 14% 80%;
+    --input: 36 14% 80%;
+    --ring: 348 46% 33%;
+    --radius: 0.25rem;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-parchment text-ink font-sans antialiased;
+    font-size: 1.05rem;
+    line-height: 1.7;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif font-semibold text-ink;
+  }
+}
+
+@layer utilities {
+  .fade-in {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 600ms cubic-bezier(0.25, 0.1, 0.25, 1), transform 600ms cubic-bezier(0.25, 0.1, 0.25, 1);
+  }
+
+  .fade-in.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  .fade-in-delay-1 { transition-delay: 100ms; }
+  .fade-in-delay-2 { transition-delay: 200ms; }
+  .fade-in-delay-3 { transition-delay: 300ms; }
+  .fade-in-delay-4 { transition-delay: 400ms; }
+  .fade-in-delay-5 { transition-delay: 500ms; }
+  .fade-in-delay-6 { transition-delay: 600ms; }
+  .fade-in-delay-7 { transition-delay: 700ms; }
+  .fade-in-delay-8 { transition-delay: 800ms; }
+}
