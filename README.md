@@ -1,6 +1,8 @@
 # warlander.github.io
 
-Personal portfolio of Maciej Cyranowicz (Warlander), built with React, Vite, and Tailwind CSS.
+My personal portfolio, built with React, Vite, and Tailwind CSS.
+
+Link: https://warlander.github.io
 
 ## Development
 
