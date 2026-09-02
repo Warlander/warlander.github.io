@@ -126,8 +126,8 @@ const projects = [
       "My personal pet project which I took from small learning project, all the way to tool used and loved by most of the Wurm Online game community — program allowing users to rapidly prototype homes and entire villages before they put days or weeks of work into them in Wurm Online/Wurm Unlimited game. It also offers many other helpful features, such as the warning system in case the designed structures are impossible to build in-game, and calculator allowing to determine how many materials the in-game project will take to build. This project and its different iterations is a good time capsule of my skills as a programmer increasing over time. The project went from very rudimentary early versions all the way to the third iteration of the program being a playground for programming patterns and Unity features, and together with that came more and higher quality features for its users.",
     links: [
       {
-        label: "Forum Post",
-        href: "https://forum.wurmonline.com/index.php?/topic/171432-deedplanner-311-3d-house-and-deed-design-tool/",
+        label: "Steam",
+        href: "https://store.steampowered.com/app/1179760/DeedPlanner/",
       },
       {
         label: "WebGL Version",
